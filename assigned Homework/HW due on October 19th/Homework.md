@@ -1,5 +1,6 @@
-# Homework due on 10/19/219
+# Homework due on 10/19/2019
 ### DO NOT COPY AND  PASTE CODE
+### 
 1.	How many asterisks does the following code fragment print?
 <br/> `a = 0`
 <br/> `while a < 100:`
