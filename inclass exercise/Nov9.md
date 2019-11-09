@@ -22,6 +22,21 @@ haveThree([3, 1, 3, 1, 3]) → true <br />
 haveThree([3, 1, 3, 3]) → false <br />
 haveThree([3, 4, 3, 3, 4]) → false
 </code>
+
+#### Question 3
+Return an array that is "left shifted" by one <br />
+ so {6, 2, 5, 3} returns {2, 5, 3, 6}. You may <br />
+ modify and return the given array, or return a new array. <br />
+ 
+ <code>
+shiftLeft([6, 2, 5, 3]) → [2, 5, 3, 6] <br />
+shiftLeft([1, 2]) → [2, 1] <br />
+shiftLeft([1]) → [1]
+</code>
+
+
+
+
 <br />
 Once you are done push your code to github and let me know <br />
 This should not take more than 20 minutes <br />
