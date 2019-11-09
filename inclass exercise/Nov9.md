@@ -13,4 +13,5 @@ rotate_left3([7, 0, 0]) → [0, 0, 7]
 </code>
 <br />
 Once you are done push your code to github and let me know <br />
-This should not take more than 20 minutes
+This should not take more than 20 minutes <br />
+you can use pycharm and write your name in your program
