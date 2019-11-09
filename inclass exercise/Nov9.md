@@ -34,8 +34,16 @@ shiftLeft([1, 2]) → [2, 1] <br />
 shiftLeft([1]) → [1]
 </code>
 
+#### Question 4
 
+Given a string of any length, return a new string where the <br />
+last 2 chars, if present, are swapped, so "coding" yields "codign".<br />
 
+<code>
+lastTwo("coding") → "codign" <br />
+lastTwo("cat") → "cta" <br />
+lastTwo("ab") → "ba" <br />
+</code>
 
 <br />
 Once you are done push your code to github and let me know <br />
