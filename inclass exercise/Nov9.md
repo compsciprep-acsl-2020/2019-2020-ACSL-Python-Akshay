@@ -11,6 +11,17 @@ rotate_left3([1, 2, 3]) → [2, 3, 1] <br />
 rotate_left3([5, 11, 9]) → [11, 9, 5] <br />
 rotate_left3([7, 0, 0]) → [0, 0, 7]
 </code>
+
+#### Question 2
+Given an array of ints, return true if the value 3 <br />
+appears in the array exactly 3 times, and no 3's <br />
+are next to each other. <br />
+
+<code>
+haveThree([3, 1, 3, 1, 3]) → true <br />
+haveThree([3, 1, 3, 3]) → false <br />
+haveThree([3, 4, 3, 3, 4]) → false
+</code>
 <br />
 Once you are done push your code to github and let me know <br />
 This should not take more than 20 minutes <br />
