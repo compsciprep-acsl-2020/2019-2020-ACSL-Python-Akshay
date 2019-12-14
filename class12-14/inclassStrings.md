@@ -29,7 +29,7 @@
 <br /> `input_str = "Welcome to USA. usa awesome, isn't it?"`
 
 9. Given a string, return the sum and average of the digits that appear in the string, ignoring all other characters.
-<br /> ``
+<br /> `sumAndAverage("English = 78 Science = 83 Math = 68 History = 65") = sum 294 Percentage is 73.5= sum 294 Percentage is 73.5`
 
 10. Given an input string, count occurrences of all characters within a string.
-
+<br /> `count("pynativepynvepynative") = {'p': 3, 'y': 3, 'n': 3, 'a': 2, 't': 2, 'i': 2, 'v': 3, 'e': 3}`
