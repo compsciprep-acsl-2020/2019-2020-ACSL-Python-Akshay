@@ -4,7 +4,7 @@
 <br /> `getMiddleThreeChars("Jasonay") → "son"`
 
 2. Given 2 strings, s1 and s2, create a new string by appending s2 in the middle of s1.
-
+<br /> `appendMiddle("Chrisdem", IamNewString) → "ChrIamNewStringisdem`
 
 3. Given 2 strings, s1, and s2 return a new string made of the first, middle and last char each input string.
 
