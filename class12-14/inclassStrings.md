@@ -14,7 +14,7 @@
 <br /> `arranging characters giving precedence to uppercase letters`
 <br /> `NPTaeivy`
 <br /> `arranging characters giving precedence to lowercase letters:`
-<br /> `yaivePNT`
+<br /> `yvieaPNT`
 
 5. Given a string input Count all lower case, upper case, digits, and special symbols.
 <br /> `input_str = "P@#yn26at^&i5ve"`
