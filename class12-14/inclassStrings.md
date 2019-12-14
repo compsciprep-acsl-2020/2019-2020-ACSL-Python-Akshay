@@ -11,8 +11,8 @@
 
 4. Arrange String characters such that lowercase letters should come first.
 <br /> `input_String = PyNaTive`
-<br /> `arranging characters giving precedence to lowercase letters`
-<br /> `aeiNPTvy`
+<br /> `arranging characters giving precedence to uppercase letters`
+<br /> `NPTaeivy`
 <br /> `arranging characters giving precedence to lowercase letters:`
 <br /> `yaivePNT`
 
